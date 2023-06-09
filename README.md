@@ -4,7 +4,7 @@ The Drum Kit project is a simple web application that allows users to play drum 
 
 ## Project Demo
 
-You can see a live demo of the project [(http://127.0.0.1:3000/DOM/Drum Kit Starting Files/index.html]
+You can see a live demo of the project [(http://127.0.0.1:3000/DOM/Drum%20Kit%20Starting%20Files/index.html)]
 
 ## Technologies Used
 
